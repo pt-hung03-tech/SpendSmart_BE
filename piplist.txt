@@ -1,0 +1,5 @@
+pip install django-cors-headers
+pip install google-generativeai
+pip install python-decouple
+hang - 1234
+api key = AIzaSyB-RzHoGD8Rb6ZiUxp6L2LZLThqZIdozpw
